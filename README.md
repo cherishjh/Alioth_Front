@@ -333,9 +333,14 @@
   <img src="docs/AliothERD.png"/>
 </p>
 
-### 🔄 플로우차트
+### 🔄 FlowChart
 <p align="center">
   <img src="docs/AliothFlowChart.png"/>
+</p>
+
+### :iphone: 화면구성
+<p align="center">
+  <img src="docs/화면구성도.png"/>
 </p>
 
 <br>
